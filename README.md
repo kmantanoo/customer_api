@@ -137,6 +137,8 @@ curl -k -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b21teXNoIiwiZ
  
 * **Error Response:**
 
+  * **Code:** 403 FORBIDDEN <br />
+    
   * **Code:** 404 NOT FOUND <br />
     **Content:** `Could not find customer with id=2`
 
